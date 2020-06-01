@@ -1,0 +1,143 @@
+{
+  "uuid": "6329fa5193ee520161c6c16d241a7f70",
+  "path": "Offline/PCB",
+  "name": "PCB",
+  "content": "",
+  "created_at": "2020-06-01 14:16:05",
+  "updated_at": "2020-06-01 21:37:53",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4f5abaea6796a07e7deab73a624f9879",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "aba4804bcbe44df3adc8078c120bde6a": 1,
+        "ed314e046f974fee9af0667c7cd70562": 1,
+        "5cbe824183374fac8e4c1ae848199ce3": 1,
+        "01f8feef49be43dcbfbe672254cb7b57": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "330Ω",
+          1,
+          "R0402",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "cea456c24ca24165b176bcf9114a7b29",
+            "uuid": "01f8feef49be43dcbfbe672254cb7b57"
+          }
+        ],
+        [
+          "220Ω",
+          1,
+          "R0402",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "cea456c24ca24165b176bcf9114a7b29",
+            "uuid": "01f8feef49be43dcbfbe672254cb7b57"
+          }
+        ],
+        [
+          "470Ω",
+          1,
+          "R0402",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "cea456c24ca24165b176bcf9114a7b29",
+            "uuid": "01f8feef49be43dcbfbe672254cb7b57"
+          }
+        ],
+        [
+          "LED-0603_R",
+          1,
+          "LED0603_RED",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "BOM_Supplier Part": "C72044",
+            "BOM_Supplier": "LCSC",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "RASPBERRYPI-B+-GPIO",
+          1,
+          "2X20-SHROUDED",
+          "JP1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eef4dfe33d148ea881570e945d01867",
+            "uuid": "aba4804bcbe44df3adc8078c120bde6a"
+          }
+        ],
+        [
+          "HC-SR04",
+          1,
+          "HC-SR04 ULTRASONIC MODULE",
+          "ULTRASONIC",
+          {
+            "BOM_Manufacturer Part": "HC-SR04",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "5f2c00a2250c439ebd6858dd86de5c10",
+            "uuid": "ed314e046f974fee9af0667c7cd70562"
+          }
+        ]
+      ],
+      "updateTime": 1591011464,
+      "createTime": 1590984965,
+      "histories": [],
+      "created_at": "2020-06-01 14:16:05",
+      "updated_at": "2020-06-01 21:37:44"
+    },
+    {
+      "uuid": "71e9571be7736d8dba83a7e69e93c670",
+      "puuid": "6329fa5193ee520161c6c16d241a7f70",
+      "title": "PCB_2020-06-01_19-49-07",
+      "filename": "PCB_2020-06-01_19-49-07.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "cea456c24ca24165b176bcf9114a7b29": 3,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 1,
+        "3eef4dfe33d148ea881570e945d01867": 1,
+        "5f2c00a2250c439ebd6858dd86de5c10": 1
+      },
+      "BOM": [],
+      "updateTime": 1591011473,
+      "createTime": 1591004947,
+      "histories": [],
+      "created_at": "2020-06-01 19:49:07",
+      "updated_at": "2020-06-01 21:37:53"
+    }
+  ],
+  "sort": [],
+  "title": "PCB",
+  "foldername": "PCB",
+  "schfilename": "ionhjoiuhno.json",
+  "schfilemtime": 1591011464170
+}
